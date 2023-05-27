@@ -9,130 +9,117 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Front-end Development</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Full Mern(MongoDB, Express.js, Node.js, React.js) Stack Web
-                Developer
+                Creating visually appealing and user-friendly websites that adapt seamlessly across different devices and screen sizes.
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Strong grip with Front-end by using HTLM5, CSS3, JavaScript adn
-                React.js
+                Proficiency in writing clean and semantic HTML code and utilizing CSS to style and enhance the presentation and reactivity of web pages.
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Good Knowledge about React.js libraries like Bootstrap and Redux
-                etc
+                Building interactive and dynamic web experiences using JavaScript frameworks such as React.js or Vue.js.
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Eager to learn about new React.js Libraries and Frameworks</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Make user friendly and interactive web sites</p>
+              <p>
+                Proficient in using version control systems like Git to manage and track changes to the codebase, enabling seamless collaboration and code management.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Make strong back-end by using Node.js, MongoDB and Express.js
+                Expertise in utilizing frontend frameworks and libraries to accelerate development and enhance productivity.
+              </p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>
+                Frontend Frameworks/Libraries: Expertise in utilizing frontend frameworks and libraries to accelerate development and enhance productivity.
               </p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Web Development 2</h3>
+            <h3>Team Leading</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Full Mern(MongoDB, Express.js, Node.js, React.js) Stack Web
-                Developer
+                Developing project plans, defining timelines, and allocating resources to ensure successful project delivery within budget and schedule constraints.
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Strong grip with Front-end by using HTLM5, CSS3, JavaScript adn
-                React.js
+                Mentoring and coaching team members, providing guidance on technical challenges, best practices, and professional development to enhance their skills and performance.
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Good Knowledge about React.js libraries like Bootstrap and Redux
-                etc
+                Fostering a collaborative team environment, promoting effective communication channels, and facilitating cross-functional collaboration to drive innovation and problem-solving.
               </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Eager to learn about new React.js Libraries and Frameworks</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Make user friendly and interactive web sites</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Make strong back-end by using Node.js, MongoDB and Express.js
+                Defining technical strategies, evaluating technology options, and guiding architectural decisions to ensure scalable, maintainable, and high-quality software solutions.
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Ability to work in group and under high pressure</p>
+              <p>
+                Identifying and mitigating project risks, proactively addressing challenges, and making informed decisions to minimize potential disruptions to project timelines and deliverables.
+              </p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Web Development 3</h3>
+            <h3>Back-end Development</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Full Mern(MongoDB, Express.js, Node.js, React.js) Stack Web
-                Developer
+                Proficiency in server-side programming languages such as Java, PHP to develop robust and scalable backend solutions.
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Strong grip with Front-end by using HTLM5, CSS3, JavaScript adn
-                React.js
+                Expertise in designing and implementing efficient database structures, utilizing technologies like SQL or NoSQL databases (e.g., MySQL, MongoDB) to store and manage data.
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Good Knowledge about React.js libraries like Bootstrap and Redux
-                etc
+                Building secure and efficient RESTful APIs to facilitate communication between the frontend and backend systems, allowing data retrieval and manipulation.
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Eager to learn about new React.js Libraries and Frameworks</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Make user friendly and interactive web sites</p>
+              <p>
+                Proficiency in utilizing popular backend frameworks such as Laravel (PHP), Spring Boot (Java), or Node.js (JavaScript) to accelerate development and streamline backend processes.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Make strong back-end by using Node.js, MongoDB and Express.js
+                Implementing measures to safeguard user data and protect against security threats, including encryption, secure data storage, and adherence to industry-standard security protocols.
               </p>
             </li>
           </ul>

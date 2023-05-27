@@ -32,13 +32,13 @@ const About = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>30+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
           <p>
-            Full stack developer with a passion for learning new
+            Software Engineer with a strong passion for becoming Full Stack software Engineer, learning new
             technologies and working with teams to create user-friendly web
-            applications. Over one year of experience in web development,
+            applications. Over one year of experience in Software Engineering,
             including front-end and back-end technologies. Eager to develop
             skills in a fast-paced environment and contribute to the success of
             a company.
